@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Niter",
+		"resourceType": "Strategic",
+		"revealedBy": "Engineering",
+		"terrainsCanBeFoundOn": ["Tundra","Desert","Flood Plains","Plains","Grassland"],
+		"production": 1,
+		"food": 1,
+		"improvement": "Mine",
+		"improvementStats": {"production": 1}
+	},
+]
