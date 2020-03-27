@@ -13,4 +13,4 @@ Tileset Images:
 * Plantation+Citrus - Modification of [Plantation+Cotton](https://github.com/yairm210/Unciv/blob/master/android/Images/TileSets/FantasyHex/Tiles/Plantation%2BCotton.png) by The Bucketeer 
 * Camp+Truffles - Modification of [Camp+Deer](https://github.com/yairm210/Unciv/blob/master/android/Images/TileSets/FantasyHex/Tiles/Camp%2BDeer.png) by The Bucketeer
 * Crabs - Made by Purrmagedon
-* Everything else is from u-ndefined.
+* Everything else made by u-ndefined.
