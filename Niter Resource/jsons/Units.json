@@ -41,7 +41,10 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"hurryCostModifier": 20,
-		"uniques": ["Heals [50] damage if it kills a unit", "Bonus as Attacker [25]%"],
+		"uniques": [
+			"Heals [50] damage if it kills a unit",
+			"Bonus as Attacker [25]%"
+		],
 		"attackSound": "shot"
 	},
 	{
@@ -56,8 +59,12 @@
 		"requiredResource": "Niter",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Ignores terrain cost"],
-		"promotions": ["Drill I"],
+		"uniques": [
+			"Ignores terrain cost"
+		],
+		"promotions": [
+			"Drill I"
+		],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
@@ -73,7 +80,9 @@
 		"requiredResource": "Niter",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["Bonus vs Mounted 50%"],
+		"uniques": [
+			"Bonus vs Mounted 50%"
+		],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
@@ -113,7 +122,9 @@
 		"rangedStrength": 35,
 		"cost": 185,
 		"requiredResource": "Niter",
-		"uniques": ["+1 Visibility Range"],
+		"uniques": [
+			"+1 Visibility Range"
+		],
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
@@ -145,10 +156,11 @@
 		"hurryCostModifier": 20,
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
-		"uniques": ["+20% bonus outside friendly territory"],
+		"uniques": [
+			"+20% bonus outside friendly territory"
+		],
 		"attackSound": "shot"
 	},
-	
 	// New unit
 	{
 		"name": "Bombard",
@@ -161,7 +173,9 @@
 		"requiredResource": "Niter",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["Bonus vs City 200%"],
+		"uniques": [
+			"Bonus vs City 200%"
+		],
 		"hurryCostModifier": 20
 	},
 ]
