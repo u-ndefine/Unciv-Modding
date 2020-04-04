@@ -3,6 +3,8 @@
 **These are the list of Unciv mods made by u-ndefined.**  
 If you stumbled to this page, please install [Unciv!](https://github.com/yairm210/Unciv)
 
+----------
+
 **Q: How do I install a specific mod?**
   1) Go to [GitZip](https://kinolien.github.io/gitzip/).
   2) Go here, and click on the mod folder you want to install.
