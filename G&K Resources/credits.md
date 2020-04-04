@@ -1,3 +1,5 @@
+**Version 1.1**
+
 ## CREDITS:
 Resource Icons:
 
