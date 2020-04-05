@@ -1,0 +1,47 @@
+[
+	{
+		"name":"Tsar Bomba",
+		"unitType":"Missile",
+		"uniqueTo":"USSR", 
+        "replaces":"Nuclear Missile",		
+		"movement":1,
+		"strength":600,
+		"rangedStrength":600,
+		"range":50,
+		"cost":1530,
+		"requiredTech":"Rocketry",
+		"requiredResource":"Uranium",
+		"uniques":["Requires Manhattan Project"],
+		"hurryCostModifier":10
+	},
+	{
+		"name": "Katyusha",
+		"unitType": "Siege",
+		"uniqueTo":"USSR",
+		"replaces":"Rocket Artillery",
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 75,
+		"range": 4,
+		"cost": 440,
+		"requiredTech": "Rocketry",
+		"requiredResource": "Aluminum",
+		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Limited Visibility","Ranged attacks may be performed over obstacles"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name":"T-34",
+		"unitType":"Armor",
+		"uniqueTo":"USSR",
+		"replaces":"Tank",
+		"movement":4,
+		"strength":80,
+		"cost":385,
+		"requiredTech":"Combined Arms",
+		"requiredResource":"Oil",
+		"upgradesTo":"Modern Armor",
+		"obsoleteTech":"Robotics",
+		"uniques":["Can move after attacking","No defensive terrain bonus"]
+		"hurryCostModifier":10
+	},
+]

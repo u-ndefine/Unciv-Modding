@@ -1,0 +1,43 @@
+[
+	{
+	"name":"USSR",
+	"leaderName":"Joseph Stalin",
+	"adjective":["Soviet"],
+	"startBias":["Avoid Tundra"],
+	"preferredVictoryType":"Domination",
+		
+	"startIntroPart1": "Welcome, for the great leader Joseph Stalin gave us hope and gave us victories into many wars, in return, we stay loyal to his command. For any wars you have fought to death, you shall always succeed, because we at Soviet Union shall make every weapon very powerful. Take this special gift, and dominate the entire world!",
+	"startIntroPart2": "For the centuries to come, every comrade of ours would stand by our side even on the harshest hour! Shall you build your civilization into a perfectly communist empire that will stand the test of time?",
+		
+	"declaringWar":"It seems that you are not a comrade to the motherland, well then, prepare for war.",
+	"attacked":"May the mercy of the motherland spare you!",
+	"defeated":"The Soviet Union may be gone but one day, someone would overthrow your capitalist deeds!",
+	"introduction":"Are you a comrade or a capitalist?",
+		
+	"neutralHello":"Greetings Comrade.",
+	"neutralLetsHearIt":["I'm listening.","What is that you want comrade?"],
+	"neutralNo":["No!","Certainly not.","Unacceptable!"],
+	"neutralYes":["Completed!","Yes!","Agreed!"],
+
+	"hateHello":"what do you want you capitalist pig?",
+	"hateLetsHearIt":["Your offering me that?","I'm listening!"],
+	"hateNo":["No, capitalist!","I shall not agree to this.","Unacceptable!"],
+	"hateYes":["Yes!","Fine, I'll accept your offer!","Sure, then!"],
+		
+	"afterPeace":"let this pact of ours be the time for both of our mility to expand.",
+	"tradeRequest":"Greetings Comrade! would you like to accept this offer?",
+				
+	"outerColor":[200,0,0],
+	"innerColor":[255,255,0],
+	
+	// Closest Representation
+	"uniqueName":"Mongol Terror",
+	"unique":"MONGOL_TERROR",
+	
+	//"uniqueName":"Crashing Wave",
+	//"unique":"CRASHING_WAVE",
+	"cities":["Moscow","Leningrad","Kiev","Tashkent","Baku","Kharkov","Minsk","Gorky","Novosibirsk","Sverdlovsk",
+		"Tbilisi","Kuybyshev","Yerevan","Dnepropetrovsk","Omsk","Alma-Ata","Odessa","Donetsk","Chelyabinsk","Kazan",
+		"Perm","Ufa","Rostov-on-Don","Stalingrad","Riga","Saratov","Zaporozhye","Voronezh","Krasnoyarsk","Lvov"]
+	},
+]
