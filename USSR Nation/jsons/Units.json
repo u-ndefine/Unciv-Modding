@@ -3,7 +3,7 @@
 		"name":"Tsar Bomba",
 		"unitType":"Missile",
 		"uniqueTo":"USSR", 
-        "replaces":"Nuclear Missile",		
+        	"replaces":"Nuclear Missile",		
 		"movement":1,
 		"strength":600,
 		"rangedStrength":600,
@@ -24,10 +24,10 @@
 		"rangedStrength": 75,
 		"range": 4,
 		"cost": 440,
-		"requiredTech": "Rocketry",
-		"requiredResource": "Aluminum",
-		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Limited Visibility","Ranged attacks may be performed over obstacles"],
-		"hurryCostModifier": 20
+		"requiredTech":"Rocketry",
+		"requiredResource":"Aluminum",
+		"uniques":["Bonus vs City 200%","No defensive terrain bonus","Limited Visibility","Ranged attacks may be performed over obstacles"],
+		"hurryCostModifier":20
 	},
 	{
 		"name":"T-34",
