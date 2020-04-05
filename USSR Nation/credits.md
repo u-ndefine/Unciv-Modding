@@ -9,3 +9,4 @@ Unit Icons:
 
 * Katyusha - [Missiles](https://thenounproject.com/icon/2052175/) by **Vectors Market**
 * T-34 - [Tank](https://thenounproject.com/icon/248489/) by **Evgeniy Kozachenko**
+* Tsar Bomba - [nuclear explosion](https://thenounproject.com/icon/777683/) by **Aldric Rodríguez**
