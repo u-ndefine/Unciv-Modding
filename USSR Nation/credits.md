@@ -1,6 +1,9 @@
 **Version 1.0**
 
 ## CREDITS:
+
+Thanks **Unciv Gaming** on Discord for making the jsons of USSR! I made it turn into a reality.
+
 Nation Icons:
 
 * USSR - [Hammer and Sickle](https://thenounproject.com/icon/99798/) by **bdeb**
